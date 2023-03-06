@@ -9,7 +9,7 @@ This repository contains the source files for the C++ library (with multithreadi
 conda env create -p .\venv -f .\bin\local\environment.yml
 
 # Activate the venv
-conda activate \Users\eduardosepulveda\workspace_github\Template_ML\venv
+conda activate \Users\eduardosepulveda\workspace_github\SplitGLM\venv
 ```
 
 #### MacOS
@@ -19,7 +19,7 @@ conda activate \Users\eduardosepulveda\workspace_github\Template_ML\venv
 conda env create -p ./venv -f ./bin/local/environment.yml
 
 # Activate the venv
-conda activate /Users/eduardosepulveda/workspace_github/Template_ML/venv
+conda activate /Users/eduardosepulveda/workspace_github/SplitGLM/venv
 ```
 
 ### License

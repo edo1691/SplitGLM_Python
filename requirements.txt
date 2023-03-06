@@ -2,12 +2,7 @@ pandas==1.4.1
 scikit-learn==1.0.2
 numpy==1.21.5
 python-dotenv==0.18.0
-chardet
-psycopg2-binary==2.8.6
-sqlalchemy==1.4.21
 pyyaml==6.0
-azure-storage-blob==12.9.0
-azure-storage-file-datalake==12.5.0
 pyarrow==7.0.0
 lightgbm==3.3.3
 scikit-optimize==0.9.0
